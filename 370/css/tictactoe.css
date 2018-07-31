@@ -1,0 +1,37 @@
+
+h1 {
+  font-weight: bold;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+#mytable {
+
+  margin: 100px auto 100px auto;
+  width: 70%;
+}
+
+td{
+  padding: 20px 20px 20px 20px;
+  text-align: center;
+  height: 150px; 
+}
+
+#cell1, #cell4  {
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+#cell2, #cell5 {
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+#cell3, #cell6 {
+  border-bottom: 1px solid black;
+}
+
+#cell7, #cell8 {
+  border-right: 1px solid black;
+}
